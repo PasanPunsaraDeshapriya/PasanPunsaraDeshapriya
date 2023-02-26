@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="" />
-</div>  
+</div>   -->
   
 
 ### <div align="center">I'm Pasan Deshapriya, UI/UX designer and a freelance artist🎨</div>  
