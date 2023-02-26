@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/PasanPunsaraDeshapriya/helloImage/blob/main/hello.gif" />
+<img src="" />
 </div>  
   
 
